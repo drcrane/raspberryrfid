@@ -1,0 +1,7 @@
+#ifndef __APPCONFIG_H__
+#define __APPCONFIG_H__
+
+#define READING_DELAY 20000
+#define WAITING_DELAY READING_DELAY
+
+#endif // __APPCONFIG_H__

@@ -1,0 +1,7 @@
+main
+qt
+readcard
+rcapp
+authusers.db
+*.o
+
